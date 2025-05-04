@@ -1,0 +1,8 @@
+Loop: 0,6.34602 step 0.0628319 origin:20,120 scale: 20,20 rot: 0
+Loop: 0,6.34602 step 0.0628319 origin:20,160 scale: 20,20 rot: 0
+Loop: 0,6.34602 step 0.0628319 origin:20,200 scale: 20,20 rot: 0
+Loop: -3.14159,3.14159 step 0.0628319 origin:380,240 scale: 80,26.6667 rot: 1.5708
+Loop: -3.14159,3.14159 step 0.0628319 origin:380,240 scale: 80,26.6667 rot: 3.66519
+Loop: -3.14159,3.14159 step 0.0628319 origin:380,240 scale: 80,26.6667 rot: -0.523599
+Loop: 0,6.28319 step 0.0628319 origin:380,240 scale: 200,200 rot: 0
+Loop: 0,62.8319 step 0.0628319 origin:380,240 scale: 200,200 rot: 0
