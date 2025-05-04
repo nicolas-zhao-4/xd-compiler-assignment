@@ -6,7 +6,8 @@
 ```
 gnumake
 ```
-- 运行```
+- 运行
+```
 semantic draw.txt
 ```
 > draw.txt 可以替换成其他文件
