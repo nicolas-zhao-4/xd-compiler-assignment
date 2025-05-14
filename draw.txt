@@ -1,7 +1,4 @@
 // this is comment
-
-
-
 rot IS 0;
 
 scale is (20, 20);

@@ -11,3 +11,11 @@ gnumake
 semantic draw.txt
 ```
 > draw.txt 可以替换成其他文件
+
+### Example
+- 根目录下
+```
+semantic.exe draw.txt
+```
+![结果](/assets/p1.png)
+![draw.txt](/assets/p2.png)
