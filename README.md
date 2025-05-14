@@ -17,5 +17,7 @@ semantic draw.txt
 ```
 semantic.exe draw.txt
 ```
+- 运行结果
 ![结果](/assets/p1.png)
+- draw.txt
 ![draw.txt](/assets/p2.png)
